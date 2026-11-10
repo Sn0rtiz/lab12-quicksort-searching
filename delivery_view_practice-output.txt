@@ -1,0 +1,27 @@
+PS C:\Users\snoac\OneDrive\Documents\COEN2220\lab12-quicksort-searching> ./delivery_view_practice
+Original orders BEFORE:
+Index 0 | ID: 420 | DELIVERY | PENDING | Biblioteca | Priority: 1
+Index 1 | ID: 180 | DELIVERY | IN_PROGRESS | Ingenieria | Priority: 3
+Index 2 | ID: 650 | DINE_IN | PENDING | Cafeteria-Lunch | Priority: 1
+Index 3 | ID: 310 | DELIVERY | PENDING | Biblioteca | Priority: 3
+Index 4 | ID: 205 | DELIVERY | PENDING | Biblioteca | Priority: 3
+Index 5 | ID: 900 | DELIVERY | COMPLETED | Ingenieria | Priority: 2
+
+Delivery report (4 orders):
+View 0 | ID: 205 | Biblioteca | Priority: 3 | PENDING
+View 1 | ID: 310 | Biblioteca | Priority: 3 | PENDING
+View 2 | ID: 420 | Biblioteca | Priority: 1 | PENDING
+View 3 | ID: 180 | Ingenieria | Priority: 3 | IN_PROGRESS
+
+Enter an order ID: 420
+Order 420 | Building: Biblioteca | Status: PENDING | Priority: 1
+
+Original orders AFTER:
+Index 0 | ID: 420 | DELIVERY | PENDING | Biblioteca | Priority: 1
+Index 1 | ID: 180 | DELIVERY | IN_PROGRESS | Ingenieria | Priority: 3
+Index 2 | ID: 650 | DINE_IN | PENDING | Cafeteria-Lunch | Priority: 1
+Index 3 | ID: 310 | DELIVERY | PENDING | Biblioteca | Priority: 3
+Index 4 | ID: 205 | DELIVERY | PENDING | Biblioteca | Priority: 3
+Index 5 | ID: 900 | DELIVERY | COMPLETED | Ingenieria | Priority: 2
+Original unchanged: yes
+PS C:\Users\snoac\OneDrive\Documents\COEN2220\lab12-quicksort-searching> 
