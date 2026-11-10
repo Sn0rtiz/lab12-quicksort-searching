@@ -1,12 +1,9 @@
-# Compiled executables (Windows)
+# Compiled executables and object files
 *.exe
-
-# Compiled executables (Mac/Linux)
-appointment_analysis_example
-campus_activity_analysis
-
-# Intermediate object files
 *.o
+equipment_catalog_example
+parcel_pickup_view
+delivery_report_practice
 
 # Editor configuration
 .vscode/
