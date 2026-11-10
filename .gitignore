@@ -1,0 +1,12 @@
+# Compiled executables (Windows)
+*.exe
+
+# Compiled executables (Mac/Linux)
+appointment_analysis_example
+campus_activity_analysis
+
+# Intermediate object files
+*.o
+
+# Editor configuration
+.vscode/
